@@ -1,4 +1,6 @@
-# FastAPI Blog Project
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Status](https://img.shields.io/badge/Status-Active-success)# FastAPI Blog Project
 
 A beginner-friendly FastAPI backend project built step-by-step.
 

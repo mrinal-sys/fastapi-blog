@@ -18,6 +18,8 @@ A beginner-friendly FastAPI backend project built step-by-step.
 - FastAPI
 - Uvicorn
 
+## 📄 License
+This project is licensed under the MIT License.
 ## 📦 Installation
 
 ```bash
